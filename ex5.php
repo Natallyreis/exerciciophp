@@ -15,4 +15,5 @@ while ($contador <= 30) {
 
 // Após o loop, você pode exibir o valor final do contador
 echo "O loop parou no número: " . $contador;
+
 ?>
